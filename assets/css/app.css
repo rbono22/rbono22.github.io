@@ -99,7 +99,7 @@ html, body {
   .card-title {
     margin-top: 50px;
     color: #328eff;
-    text-align: center;
+    text-align: left;
   }
   
   .card-text {

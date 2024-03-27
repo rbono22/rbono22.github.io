@@ -99,11 +99,12 @@ html, body {
   .card-title {
     margin-top: 50px;
     color: #328eff;
-    text-align: left;
+    text-align: center;
   }
   
   .card-text {
     line-height: 2;
+    text-align: left;
   }
   
   .card-icon{

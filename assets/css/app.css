@@ -252,7 +252,7 @@ html, body {
            left: 0;
       }
        #timeline .timeline-item .timeline-content {
-           width: 90%;
+           width: 100%;
            float: right;
       }
        #timeline .timeline-item .timeline-content:before, #timeline .timeline-item .timeline-content.right:before {

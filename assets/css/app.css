@@ -93,6 +93,11 @@ html, body {
   
   .container-dark {
     background-color: #343a40;
+    transform: translateY(-150px);
+    text-align: center;
+    /* width: 500px; */
+    /* max-width: 90%; */
+    margin: 0 auto;
   }
   
   .card-title {

@@ -64,9 +64,10 @@ html, body {
   .custom-card {
     transform: translateY(-150px);
     text-align: center;
-    /* width: 500px; */
-    /* max-width: 90%; */
+    width:500px;
+    max-width: 90%;
     margin: 0 auto;
+    
   }
   
   .card {
@@ -103,7 +104,6 @@ html, body {
   
   .card-text {
     line-height: 2;
-    text-align: left;
   }
   
   .card-icon{
@@ -251,7 +251,7 @@ html, body {
            left: 0;
       }
        #timeline .timeline-item .timeline-content {
-           width: 100%;
+           width: 90%;
            float: right;
       }
        #timeline .timeline-item .timeline-content:before, #timeline .timeline-item .timeline-content.right:before {
